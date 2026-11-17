@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,22.5,gan tay 4 anh gold tren CVAT khong AI
+batch_review,24,30,duyet 24 anh batch co pre-label tren CVAT
